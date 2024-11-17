@@ -1,0 +1,3 @@
+/home/pascal/WebSocket_Übung/REST_Api/build/CMakeFiles/CrowRestApi.dir
+/home/pascal/WebSocket_Übung/REST_Api/build/CMakeFiles/edit_cache.dir
+/home/pascal/WebSocket_Übung/REST_Api/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+Datenserver starten:
+url -X POST http://localhost:18080/start_data_server -d '{"id": 1, "info": "Data server 1"}' -H "Content-Type: application/json"
+
+Aggregator starten:
+curl -X POST http://localhost:18080/start_aggregator
+
+Prüfen ob Server laufen:
+ss -tuln
+
+Zum PID überprüfen:
+lsof -i :8766
+
+Prozess beenden:
+kill -9 PID
+
+Status abfragen:
+curl http://localhost:18080/status && echo

@@ -1,0 +1,3 @@
+/home/pascal/WebSocket_Übung/Datenserver/build/CMakeFiles/server.dir
+/home/pascal/WebSocket_Übung/Datenserver/build/CMakeFiles/edit_cache.dir
+/home/pascal/WebSocket_Übung/Datenserver/build/CMakeFiles/rebuild_cache.dir
